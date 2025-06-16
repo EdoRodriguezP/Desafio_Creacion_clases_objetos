@@ -1,6 +1,6 @@
 from te import Te
 
-
+# se crean dos instanicas de la clase té
 te1 = Te()
 te2 = Te()
 
